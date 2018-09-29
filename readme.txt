@@ -1,4 +1,4 @@
 Welcome yo my first repo
 Learnin git is going well so far
 added this line to b2 branch
-It's windy outside today
+It's a bit cloudy and windy  day today
